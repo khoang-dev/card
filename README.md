@@ -1,14 +1,24 @@
-### This repository is currently being used to host static projects created in the [Packetcode](https://youtube.com/packetcode) YouTube channel.
+# christmas-card
 
+## Project setup
+```
+npm install
+```
 
-**Projects Showcase** : <https://packetcode.github.io>
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-**YouTube Channel** : <https://youtube.com/packetcode>
+### Compiles and minifies for production
+```
+npm run build
+```
 
----
+### Lints and fixes files
+```
+npm run lint
+```
 
-**Official Webiste**: [Packetcode](https://packetcode.in)
-
-**Email** : <packetcodeofficial@gmail.com>
-
-**Telegram**: [Packetcode](https://t.me/packetcode)
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
