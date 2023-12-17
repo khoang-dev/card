@@ -1,17 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+  <AnimatedChristmasCard/>
+  <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
+<script setup>
+// import HelloWorld from './components/HelloWorld.vue'
+// import SnowGlobe from './components/SnowGlobe.vue';
+import AnimatedChristmasCard from './components/AnimatedChristmasCard.vue';
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+
 </script>
 
 <style>
