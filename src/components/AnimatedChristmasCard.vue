@@ -29,8 +29,8 @@
 <style lang="css" scoped>
 .container {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: end;
+  align-items: end;
 }
 body {
   height: 100vh;
